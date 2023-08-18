@@ -1,0 +1,15 @@
+/Users/kris.lebedeva/homework/homework9/bin/Debug/net6.0/homework9
+/Users/kris.lebedeva/homework/homework9/bin/Debug/net6.0/homework9.deps.json
+/Users/kris.lebedeva/homework/homework9/bin/Debug/net6.0/homework9.runtimeconfig.json
+/Users/kris.lebedeva/homework/homework9/bin/Debug/net6.0/homework9.dll
+/Users/kris.lebedeva/homework/homework9/bin/Debug/net6.0/homework9.pdb
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/homework9.csproj.AssemblyReference.cache
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/homework9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/homework9.AssemblyInfoInputs.cache
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/homework9.AssemblyInfo.cs
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/homework9.csproj.CoreCompileInputs.cache
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/homework9.dll
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/refint/homework9.dll
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/homework9.pdb
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/homework9.genruntimeconfig.cache
+/Users/kris.lebedeva/homework/homework9/obj/Debug/net6.0/ref/homework9.dll
